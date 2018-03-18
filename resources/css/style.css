@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+  font-family: Verdana,sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+h3{
+  font-family: Verdana,sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  color: Aquamarine;
+  text-align: center;
+}
+h2{
+  font-family: Verdana,sans-serif;
+  font-size: 21px;
+  font-weight: normal;
+  color: Gray;
+  text-align: center;
+}
